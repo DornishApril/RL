@@ -1,0 +1,179 @@
+Starting naive RL with discount value:0.5---- number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.7111111111111111  0.28888888888888886  0.0
+ 3        policy distribution:  0.7021276595744681  0.2978723404255319  0.0
+ 4        policy distribution:  0.4367106240713224  0.22525074294205055  0.3380386329866271
+ 5        policy distribution:  0.0  0.3066666666666667  0.6933333333333334
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:0.5---- number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.6923076923076923  0.30769230769230765  0.0
+ 3        policy distribution:  0.6923076923076922  0.3076923076923077  0.0
+ 4        policy distribution:  0.41598641677006465  0.1521093188793835  0.4319042643505517
+ 5        policy distribution:  0.0  0.28888888888888886  0.7111111111111111
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:0.5---- number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  1.0  0.0  0.0
+ 3        policy distribution:  1.0  0.0  0.0
+ 4        policy distribution:  0.4529616724738676  0.1846689895470383  0.3623693379790941
+ 5        policy distribution:  0.0  0.0  1.0
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:0.5---- number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  1.0  0.0  0.0
+ 3        policy distribution:  1.0  0.0  0.0
+ 4        policy distribution:  0.5555555555555556  0.0  0.4444444444444444
+ 5        policy distribution:  0.0  0.0  1.0
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:0.5---- number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  1.0  0.0  0.0
+ 3        policy distribution:  1.0  0.0  0.0
+ 4        policy distribution:  0.5555555555555556  0.0  0.4444444444444444
+ 5        policy distribution:  0.0  0.0  1.0
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:{discount} number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.37493276350522886  0.34606322360224073  0.2790040128925304
+ 3        policy distribution:  0.3613176773692385  0.3347065232031644  0.30397579942759717
+ 4        policy distribution:  0.37348317020974847  0.3355129174529626  0.2910039123372889
+ 5        policy distribution:  0.4323713175350553  0.3441087514350563  0.22351993102988849
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:{discount} number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.3518227724783813  0.327463616510341  0.32071361101127766
+ 3        policy distribution:  0.3628781765565568  0.33668514166912683  0.3004366817743164
+ 4        policy distribution:  0.37101800292172193  0.31668978529952774  0.3122922117787503
+ 5        policy distribution:  0.4373677672125957  0.3681282816661687  0.19450395112123553
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:{discount} number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.5344783324471876  0.0  0.4655216675528125
+ 3        policy distribution:  0.3938521206844948  0.3318760569261674  0.2742718223893378
+ 4        policy distribution:  0.3854912604635119  0.3521377135583807  0.26237102597810746
+ 5        policy distribution:  0.3905843496444847  0.3725145331959786  0.23690111715953655
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:{discount} number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
+state:--- policy distribution:  L  0  R after all Iterations 
+ 1        policy distribution:  0.0  1.0  0.0
+ 2        policy distribution:  0.5326750349204993  0.0  0.4673249650795006
+ 3        policy distribution:  0.36566305187092024  0.34906522700965004  0.2852717211194297
+ 4        policy distribution:  0.41838809196730553  0.30831388990123915  0.2732980181314553
+ 5        policy distribution:  0.41206486166169487  0.3182068518546722  0.26972828648363295
+ 6        policy distribution:  0.0  1.0  0.0
+
+
+
+
+Starting naive RL with discount value:{discount} number of iterations:{iterations}
+state:--- policy distribution:  L  0  R BEFORE ITERATION
+ 1        policy distribution:  0  1  0
+ 2        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 3        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 4        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 5        policy distribution:  0.3333333333333333  0.3333333333333333  0.3333333333333333
+ 6        policy distribution:  0  1  0
